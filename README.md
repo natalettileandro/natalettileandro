@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Leandro Nataletti 
+
+I lead and work on projects for digitalization and digital transformation in manufacturing processes. I work in the implementation of new technologies, process optimization with Analytics
+and Statistics, as well as preparing people in new ways of working
+
 
 <!--
 **natalettileandro/natalettileandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
