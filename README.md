@@ -1,7 +1,12 @@
 ## Leandro Nataletti 
 
 I lead and work on projects for digitalization and digital transformation in manufacturing processes. I work in the implementation of new technologies, process optimization with Analytics
-and Statistics, as well as preparing people in new ways of working
+and Statistics, as well as preparing people in new ways of working.
+
+Contato:
+
+<a href="https://www.linkedin.com/in/leandronataletti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div> <a href = "natalettifacens@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Experience
 
