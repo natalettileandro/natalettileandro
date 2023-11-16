@@ -11,6 +11,7 @@ Main contact:
 ## Experience
 
 - LANXESS, Porto Feliz, Data Science & Engineer, (09/2021)-Actual
+  
 Osi Soft Pi – AVEVA Pi Admin user , Management around 5000 tags and more than 80 people training in Pi System. Development and implementation Data Monitoring, Events Frames and Mathematical models (output increased around 16% , Standardized and scalable production reports on the plant). 
 OEE implementation with Process Optimization
 Energy Production and Efficiency to Boiler process, Energy consumption ( All plant) and Predict Maintenance with Notification using TrendMiner software;
