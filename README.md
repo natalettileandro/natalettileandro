@@ -1,7 +1,8 @@
 ## Leandro Nataletti 
 
-I lead and work on projects for digitalization and digital transformation in manufacturing processes. I work in the implementation of new technologies, process optimization with Analytics
-and Statistics, as well as preparing people in new ways of working.
+Chemical Engineer with specialization in Data Science, currently Data Science & Engineer at LANXESS
+
+At LANXESS I perform the Data Science function as well as being responsible for monitoring and supporting Strategic Studies and Projects at the production site. I lead projects for digitization and digital transformation in manufacturing processes. I work in the implementation of new technologies, process optimization with Analytics and Statistics, as well as preparing people in new ways of working.
 
 Main contact:
 
