@@ -41,10 +41,10 @@ FORMARE project (volunteer) - Social professional education program for low-inco
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/natalettileandro/natalettileandro/edit/main/README.md)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.com/natalettileandro/natalettileandro/edit/main/README.md)
 
-- Bancos de Dados: SQL Lite3 , Postgres SQL
-- Ferramentas de Dataviz: Power BI
-- Ferramentas de apoio: Power Automate, Excel, Git, Python para análise de dados
-- Estudos autônomos: Azure Data Factory, Azure Synapse, Azure Analysis Services, Databricks
+- Databases: SQL Lite3 , Postgres SQL
+- Dataviz: Power BI
+- Tools: Power Automate, Excel, Git, Python
+- Studies: Azure Data Factory, Azure Synapse, Azure Analysis Services, Databricks
 
 
 
