@@ -35,8 +35,7 @@ FORMARE project (volunteer) - Social professional education program for low-inco
 -	iConnect Project (Drones),2023 (Bochum, Germany).
 - Mindful Intercultural Communication,2023 (Bochum, Germany).
 
-
-  ## Skills:
+## Skills:
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/natalettileandro/natalettileandro/edit/main/README.md)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/natalettileandro/natalettileandro/edit/main/README.md)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/natalettileandro/natalettileandro/edit/main/README.md)
