@@ -2,7 +2,7 @@
 
 Chemical Engineer with specialization in Data Science, currently Data Science & Engineer at LANXESS
 
-At LANXESS I perform the Data Science function as well as being responsible for monitoring and supporting Strategic Studies and Projects at the production site. I lead projects for digitization and digital transformation in manufacturing processes. I work in the implementation of new technologies, process optimization with Analytics and Statistics, as well as preparing people in new ways of working.
+Experienced Data Scientist and Engineer, leading projects on digital transformation and process optimization in manufacturing environments. Expertise in implementing advanced analytics, statistical models, and new technologies to drive operational efficiency. Skilled in preparing teams for digitalization and promoting data-driven decision-making. Fluent in English.
 
 Main contact:
 
@@ -12,21 +12,26 @@ Main contact:
 
 - LANXESS, Porto Feliz, Data Science & Engineer, (09/2021)-Actual
   
-Osi Soft Pi – AVEVA Pi Admin user , Management around 5000 tags and more than 80 people training in Pi System. Development and implementation Data Monitoring, Events Frames and Mathematical models (output increased around 16% , Standardized and scalable production reports on the plant). 
+Osi Soft Pi – AVEVA Pi Admin user , Management around 5000 tags and more than 80 people training in Pi System. Development and implementation Data Monitoring, Events Frames and Mathematical models with  Linear Regression (output increased around 16% , Standardized and scalable production reports on the plant). 
 OEE implementation with Process Optimization
 Energy Production and Efficiency to Boiler process, Energy consumption ( All plant) and Predict Maintenance with Notification using TrendMiner software;
-
-TrendMiner - Statistic model (Integral, Interpolations, Descriptive Statistics), Notifications and Alarms for critical condition and Energy Efficiency predicts (Machine Learning).
-
-Power Bi - Data Management Reports with data from Production (Osi Soft Pi)  and SAP, where Managers and Leaders from Production, Maintenance, Project are connected on the dashboard at Power Bi portal. 
-
-iConnect Project , Jan/23 - Development of a prototype Drone capable of monitoring CO2 levels in the Industrial Processes area, where they are conducted by Brazilian Engineers, VDI-Brasil - Associação de Engenheiros Brasil-Alemanha, VDI e.V. and Technische Hochschule Georg Agricola.
-
+TrendMiner - Statistic model (Integral, Interpolations, Descriptive Statistics), Notifications/Alarms for critical condition, Energy Efficiency predicts (GBR model - Machine Learning) and Anomalies Detections – Boiler Cleaning Conditions (SOMS maps model – Machine Learning).
+Built Power BI dashboards integrating data from Osi Soft Pi and SAP, providing real-time insights for managers across production, maintenance, and project teams
+iConnect Project  - Development of a prototype Drone capable of monitoring CO2 levels in the Industrial Processes area, where they are conducted by Brazilian Engineers, VDI-Brasil - Associação de Engenheiros Brasil-Alemanha, VDI e.V. and Technische Hochschule Georg Agricola.
 FORMARE project (volunteer) - Social professional education program for low-income youth (Digitalization classes).
+LANXESS, Porto Feliz, Production Leader (06/2015)-(09/2021)
+LANXESS, Porto Feliz, Laboratory Analyst (05/2012)-(05/2015)
+LANXESS, Porto Feliz, Engineer Trainee (10/2010)-(05/2012)
 
-- LANXESS, Porto Feliz, Production Leader (06/2015)-(09/2021)
-- LANXESS, Porto Feliz, Laboratory Analyst (05/2012)-(05/2015)
-- LANXESS, Porto Feliz, Engineer Trainee (10/2010)-(05/2012)
+Key Responsibilities & Skills
+
+•	Machine Learning: Developed the Anomalies Detection model to identify deviations in cogeneration boilers, optimizing machine performance.
+•	Predictive Maintenance: Utilized statistical and machine learning models for energy efficiency forecasting and anomaly detection.
+•	Digitalization & Transformation: Led process digitalization initiatives, implementing scalable solutions for data monitoring and reporting.
+•	Process Optimization: Applied statistical and regression models to enhance output and efficiency across production processes.
+•	Team Leadership & Training: Trained over 80 individuals in Pi System and digital tools, fostering a culture of data-driven decision-making.
+
+
 
 ### International
 
