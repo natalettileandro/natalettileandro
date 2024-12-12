@@ -14,24 +14,26 @@ Main contact:
   
 Osi Soft Pi – AVEVA Pi Admin user , Management around 5000 tags and more than 80 people training in Pi System. Development and implementation Data Monitoring, Events Frames and Mathematical models with  Linear Regression (output increased around 16% , Standardized and scalable production reports on the plant). 
 OEE implementation with Process Optimization
-Energy Production and Efficiency to Boiler process, Energy consumption ( All plant) and Predict Maintenance with Notification using TrendMiner software;
+Energy Production and Efficiency to Boiler process, Energy consumption ( All plant) and Predict Maintenance with Notification using TrendMiner software.
+
 TrendMiner - Statistic model (Integral, Interpolations, Descriptive Statistics), Notifications/Alarms for critical condition, Energy Efficiency predicts (GBR model - Machine Learning) and Anomalies Detections – Boiler Cleaning Conditions (SOMS maps model – Machine Learning).
-Built Power BI dashboards integrating data from Osi Soft Pi and SAP, providing real-time insights for managers across production, maintenance, and project teams
+
+Built Power BI dashboards integrating data from Osi Soft Pi and SAP, providing real-time insights for managers across production, maintenance, and project teams.
+
 iConnect Project  - Development of a prototype Drone capable of monitoring CO2 levels in the Industrial Processes area, where they are conducted by Brazilian Engineers, VDI-Brasil - Associação de Engenheiros Brasil-Alemanha, VDI e.V. and Technische Hochschule Georg Agricola.
+
 FORMARE project (volunteer) - Social professional education program for low-income youth (Digitalization classes).
 LANXESS, Porto Feliz, Production Leader (06/2015)-(09/2021)
 LANXESS, Porto Feliz, Laboratory Analyst (05/2012)-(05/2015)
 LANXESS, Porto Feliz, Engineer Trainee (10/2010)-(05/2012)
 
-Key Responsibilities & Skills
+### Key Responsibilities & Skills
 
-•	Machine Learning: Developed the Anomalies Detection model to identify deviations in cogeneration boilers, optimizing machine performance.
-•	Predictive Maintenance: Utilized statistical and machine learning models for energy efficiency forecasting and anomaly detection.
-•	Digitalization & Transformation: Led process digitalization initiatives, implementing scalable solutions for data monitoring and reporting.
-•	Process Optimization: Applied statistical and regression models to enhance output and efficiency across production processes.
-•	Team Leadership & Training: Trained over 80 individuals in Pi System and digital tools, fostering a culture of data-driven decision-making.
-
-
+- Machine Learning: Developed the Anomalies Detection model to identify deviations in cogeneration boilers, optimizing machine performance.
+- Predictive Maintenance: Utilized statistical and machine learning models for energy efficiency forecasting and anomaly detection.
+-	Digitalization & Transformation: Led process digitalization initiatives, implementing scalable solutions for data monitoring and reporting.
+-	Process Optimization: Applied statistical and regression models to enhance output and efficiency across production processes.
+-	Team Leadership & Training: Trained over 80 individuals in Pi System and digital tools, fostering a culture of data-driven decision-making.
 
 ### International
 
